@@ -8,4 +8,16 @@ function onSubmit(){
 
     console.log(checkbox.checked);
 
+    if(checkbox.checked==false){
+        
+    }elseif(fnameBox == ''){
+
+    }elseif(ltextBox==''){
+
+    }elseif(email==''){
+        
+    }else{
+        
+    }
+
 }
